@@ -1,5 +1,4 @@
-
-**🌍 Planet**
+# 🌍 Planet
 
 Welcome to the **Planet** project! 🚀 This visually engaging animation brings a cosmic touch to your webpage, perfect for showcasing planetary motion or adding a space-themed vibe to your digital creations. Designed with elegance and simplicity, it’s ideal for science pages, portfolio intros, or just for fun!
 
